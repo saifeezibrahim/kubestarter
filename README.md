@@ -1,5 +1,7 @@
 ## Kubernetes Kickstarter
 
+This for Learning purpose
+
 ## Architecture Guides
 
 1. [Kubernetes Architecture Guide](./kubernetes_architecture.md)
